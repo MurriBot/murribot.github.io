@@ -252,19 +252,19 @@ Also the images of the crime scene and the objects present in there contribute t
 
 We implemented the chatbot at issue using an online tool called “ManyChat” (https://manychat.com/), which allowed us to setup a dialogue between the bot and the human user. The dialogue has the following structure: the bot tell or ask something to the user (for example, the bot asks the user which object she wants to interact with to discover some clues), and the user can answer selecting one of the options shown by the bot, until the end of the game. The options could be one, two or three. In this way, a graph containing all the possible choices - connected each other - is generated.
 
-![](1.png)
+![](images/1.png)
 
-![](2.png)
+![](images/2.png)
 
 In addition, ManyChat allows us to gather some data about the users: their profile image, their name, gender, status (subscribed or not to the chatbot) and subscribed (the last time they accessed the bot). We could use to adapt the features of the bot to the users’ characteristics.
 
-![](3.png)
+![](images/3.png)
 
-![](4.png)
+![](images/4.png)
 
 Eventually, the tool also shows some statistical data, useful to check the number of users per day. If the statistical data would show too few users, we could understand that it could be necessary to study strategies to make the bot more attractive.
 
-![](5.png)
+![](images/5.png)
 
 ## Conclusion
 Though it is a very simple bot with hardly any cognitive skills, it has been a good way to get into storytelling on social media and to get to know about chatbots by helping us think through the design and challenge of creating a chatbot within a certain theoretical framework.
