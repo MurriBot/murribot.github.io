@@ -65,9 +65,11 @@ Chatbots are usually deployed in companies to engage with their customers and su
 
 From a culturally-driven and historically-aware perspective, chatbots could be an excellent engaging tool by gamifying the cultural experience.[6] A gamified chatbot allows to implement narrative into the design of the experience and give it a more supportive and immersive feel. An exemplary case study is represented by the chatbot developed by Invisible Studio and employed by the House Museums of Milan.[7]
 
-# Narrative [8]
+# Narrative
 
 ## The Case of Murri: an historical introduction
+
+(For the complete source, see [8])
 
 In the morning of September 2nd 1902, a strong and disgusting smell was emanating from **Palazzo Bisteghi**, a palace in the center of Bologna and home of **Francesco Bonmartini**, a Count who came from Veneto to Bologna to live with his wife, **Linda Murri**. That terrible smell aroused the suspicion of the porter of the palace, **Teresa Cicognani**, who at a certain point decided to ring Bonmartini’s bell. No answer came in. She sensed that something bad had happened. The porter decided to call one of the members of the Murri’s family, since the Count had no relatives in the city. The first to come was **Tullio Murri**, Bonmartini’s brother-in-law. Linda was in Venice with her children in that moment. Tullio, once he arrived at the palace, immediately took control of the situation and without esitation he called the police, ordering them to force the lock of the door and to penetrate into Bonmartini’s flat.
 
